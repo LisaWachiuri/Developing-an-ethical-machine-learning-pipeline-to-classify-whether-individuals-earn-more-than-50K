@@ -1,2 +1,3 @@
-# Income classification with bias and fairness analysis
+# Income classification with bias and fairness analysis.
+
 Classifying whether an individual’s income is greater than $50K per year or not based on demographic and employment attributes. Bias and fairness analysis is conducted using fairness metrics (i.e. disparate impact, demographic parity and equal opportunity) to determine if the models predictions were influenced by attributes such as gender. 
