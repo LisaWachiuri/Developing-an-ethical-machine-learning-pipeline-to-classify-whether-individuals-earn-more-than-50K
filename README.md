@@ -4,7 +4,7 @@ This predicts whether an individuals income is greater than $50K per year based 
 
 The fairness evaluation uses metircs including **disparate impact, demographic parity** and **equal opportunity** to asssess whether the models behave differenty across gender groups
 
-project Objectives
+Project objectives
 - Clean and preprocess the dataset
 - Apply appropriate statistical tsts to compare the relationships between variables and interpretthe results
 - Build machine learning models to classify income levels
@@ -21,7 +21,7 @@ Libraries used
 - Sklearn
 - HolisticAI
 
-  Machine Learning models used
+Machine Learning models used
 - Random Forest
 - Logistic Regression
 - Ada Boost
@@ -35,7 +35,7 @@ Each model was evaluates using
 - Accuracy
 - ROC-AUC curves
 
-### Fairness metrics
+Fairness metrics
 Fairness was analysed using:
 - Disparate impact
 - Demographic parity
