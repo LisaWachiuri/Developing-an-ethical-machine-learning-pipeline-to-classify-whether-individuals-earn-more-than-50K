@@ -39,5 +39,5 @@ Fairness was analysed using:
 - Disparate impact
 - Demographic parity
 - Equal opportunity of difference
-These metrics help determine whether the models predictions disproportionately favour or disadvantage a particular gender group
+<br>These metrics help determine whether the models predictions disproportionately favour or disadvantage a particular gender group<br>
 
