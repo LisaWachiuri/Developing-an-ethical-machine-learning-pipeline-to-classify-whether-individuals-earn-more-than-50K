@@ -35,7 +35,6 @@ Each model was evaluates using
 - Accuracy
 - ROC-AUC curves
 
-Fairness metrics
 Fairness was analysed using:
 - Disparate impact
 - Demographic parity
