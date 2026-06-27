@@ -6,7 +6,7 @@ The fairness evaluation uses metircs including **disparate impact, demographic p
 
 Project objectives
 - Clean and preprocess the dataset
-- Apply appropriate statistical tsts to compare the relationships between variables and interpretthe results
+- Apply appropriate statistical tests to compare the relationships between variables and interpret the results
 - Build machine learning models to classify income levels
 - Analyse model performance using standard evaluation metrics
 - Compare the performance of the models before and after addressing class imbalance
@@ -28,7 +28,7 @@ Machine Learning models used
 - Neural Network
 
 Each model was evaluates using
-- Confusion Matrix
+- Confusion Matrices
 - Precision
 - Recall
 - F1-score
@@ -39,5 +39,6 @@ Fairness was analysed using:
 - Disparate impact
 - Demographic parity
 - Equal opportunity of difference
+
 <br>These metrics help determine whether the models predictions disproportionately favour or disadvantage a particular gender group<br>
 
